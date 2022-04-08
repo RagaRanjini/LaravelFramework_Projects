@@ -96,3 +96,7 @@ Laravel includes queue services like emailing large number of users or a specifi
 Event and Command Bus
 
 Laravel 5.1 includes Command Bus which helps in executing commands and dispatch events in a simple way. The commands in Laravel act as per the application’s lifecycle.
+
+# My Laravel Projects
+
+1. Basic ToDo website
